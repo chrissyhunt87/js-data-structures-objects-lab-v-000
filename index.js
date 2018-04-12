@@ -3,6 +3,6 @@
 const driver = {};
 
 function updateDriverWithKeyAndValue(object, key, value) {
-  const newObject = { ...object };
+  const newObj = { ...object };
   
 }
